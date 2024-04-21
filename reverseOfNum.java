@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class reverseOfNum {
-    
     public static int reverse(int n) {
 		
 		int rev = 0;
