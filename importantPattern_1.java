@@ -22,7 +22,6 @@ public class importantPattern_1 {
 		
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
-		
 		print_Pattern(n);
 	}
 }
