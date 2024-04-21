@@ -3,7 +3,7 @@ import java.util.*;
 public class importantPattern_2 {
     
     public static void print_Pattern(int n) {
-		
+
 		for(int i=1; i<=n; i++) {
 			
 			for(int j=n-i; j>=1; j--) {
