@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class importantPattern_3 {
     
     public static void print_Pattern(int n){
@@ -27,7 +26,6 @@ public class importantPattern_3 {
 			System.out.println();
 		}
 	}
-	
 	public static void main(String[] args) {
 	
 		Scanner sc = new Scanner(System.in);
